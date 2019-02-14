@@ -1,6 +1,4 @@
 # HelloWorld
 Testing the guide
 
-Testing edits
-
-vbn
+Testing edits 2
