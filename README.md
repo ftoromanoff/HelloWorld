@@ -1,3 +1,3 @@
 # HelloWorld
 Testing the guide
-TEsting edits
+Testing edits
